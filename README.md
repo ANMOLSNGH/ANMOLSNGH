@@ -144,6 +144,14 @@ Regularly participates in coding contests to sharpen algorithmic thinking and pr
 
 ---
 
+## Contribution Snake
+
+<!--contribution-snake-->
+
+![Contribution Snake](https://raw.githubusercontent.com/ANMOLSNGH/ANMOLSNGH/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## Current Focus
 
 <!--current-focus-->
