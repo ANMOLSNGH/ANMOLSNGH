@@ -1,32 +1,23 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Charanjot%20Singh&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anmol%20Singh&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%40%20NIT%20Jalandhar%20%7C%20Full%20Stack%20%2F%20AI%20Enthusiast&descAlignY=58" />
 
-<a href="https://github.com/charanjot27">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NIT+Jalandhar;Software+Engineer+%7C+AI%2FML+Enthusiast;Full+Stack+Developer+(MERN);Competitive+Programmer+%7C+1600%2B+LeetCode;Building+Intelligent+Products" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NIT+Jalandhar;Full+Stack+%2B+AI%2FML+Developer;Competitive+Programmer;Building+Real+Projects%2C+Not+Just+Tutorials" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE-NIT%20Jalandhar-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NIT Jalandhar"/>
-<img src="https://img.shields.io/badge/Class%20of-2028-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Class of 2028"/>
-<img src="https://img.shields.io/badge/JEE%20Advanced-Top%201.2%25-8B5CF6?style=for-the-badge&logo=target&logoColor=white" alt="JEE Advanced"/>
-<img src="https://img.shields.io/badge/Punjab-India-4F46E5?style=for-the-badge" alt="Location"/>
+![NIT Jalandhar](https://img.shields.io/badge/B.Tech%20CSE-NIT%20Jalandhar-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Class of 2028](https://img.shields.io/badge/Class%20of-2028-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
+![JEE Advanced](https://img.shields.io/badge/JEE%20Advanced-Rank%2016.3k-8B5CF6?style=for-the-badge&logo=target&logoColor=white)
+![Location](https://img.shields.io/badge/Punjab-India-4F46E5?style=for-the-badge)
 
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-rana-nitj/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmols.cs.24@nitj.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANMOLSNGH)
 
-<a href="https://charanjot.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/charanjot-singh"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
-<a href="mailto:charanjots.cs.24@nitj.ac.in"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/charanjot27"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=charanjot27&style=flat-square&color=6D28D9&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/charanjot27?style=flat-square&color=7C3AED&labelColor=1a1b27&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/charanjot27?style=flat-square&color=8B5CF6&labelColor=1a1b27&label=Stars" alt="Stars"/>
+![Profile Views](https://komarev.com/ghpvc/?username=ANMOLSNGH&style=flat-square&color=6D28D9&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ANMOLSNGH?style=flat-square&color=7C3AED&labelColor=1a1b27&label=Followers)
+![Stars](https://img.shields.io/github/stars/ANMOLSNGH?style=flat-square&color=8B5CF6&labelColor=1a1b27&label=Stars)
 
 </div>
 
@@ -34,292 +25,158 @@
 
 ## About
 
-Software engineer in training with production experience across full-stack (MERN), computer vision, and LLM-integrated applications. Focused on building products end-to-end — from data pipelines and model integration to polished, deployed user experiences.
+<!--about-->
 
-- Software Intern at **CRIS (Centre for Railway Information Systems), Indian Railways** — UTS Team (Jun–Jul 2026)
-- Shipped full-stack features at **Connect The Clinics** over a year-long MERN contract
-- Pursuing a structured two-year AI/ML roadmap toward ML Engineering — Classical ML, MLOps, Computer Vision, LLMs & Agents
-- Competitive programmer — 1600+ LeetCode contest rating, 300+ problems solved
-- Flagship build: **FinSim** — an AI-powered financial literacy simulator (~14K LOC), Google Solution Challenge 2026
+Third-year Computer Science undergrad at **NIT Jalandhar**, building full-stack applications and exploring AI/ML integrations end to end — from backend APIs and databases to LLM-powered features.
 
-**Open to:** SDE Internships · ML Engineering Internships · Open Source Collaboration
+- 🎯 Top 1 percentile in **JEE Mains** (among 1.6M candidates); **JEE Advanced** rank 16.3k; **NTSE Stage 1** rank 103/50K
+- 🛠️ Comfortable across the full stack — React, Node.js/Express, MongoDB, MySQL — plus real-time systems (WebSocket, WebRTC)
+- 🤖 Exploring applied AI: LangChain, RAG pipelines, and vector databases
+- 🏆 700+ problems solved on LeetCode, 150+ across Codeforces, GfG, and CodeChef
+- 🎯 Targeting **2027 SDE/Data Analyst internships** and full-time roles from 2028
+
+**Open to:** SDE Internships · Data Analyst Internships · Open Source Collaboration
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+<!--tech-stack-->
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,swift,c,html,css&theme=dark" alt="Languages"/>
+![Languages](https://skillicons.dev/icons?i=cpp,python,c,javascript,html,css&theme=dark)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend"/>&nbsp;
-<img src="https://img.shields.io/badge/Phaser%203-99424F?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser 3"/>
-<img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+![Frontend](https://skillicons.dev/icons?i=react,redux&theme=dark)
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&theme=dark" alt="Backend"/>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark)
 
-**AI / ML & Data**
+**AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI/ML"/>&nbsp;
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO"/>
-<img src="https://img.shields.io/badge/NumPy%20·%20Pandas%20·%20Matplotlib-4F46E5?style=for-the-badge" alt="Data Science"/>
+![AI/ML](https://skillicons.dev/icons?i=py&theme=dark) &nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Vector%20DBs-8B5CF6?style=for-the-badge)
 
-**Cloud, DevOps & Tooling**
+**Tools & Networking**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,latex,arduino,netlify&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:------:|:-----------:|:--------|
-| **LLMs & Agents** | ▰▰▰▰▱ | Vertex AI / Gemini integrated in production (FinSim); agentic loop patterns |
-| **Computer Vision** | ▰▰▰▰▱ | YOLO object detection deployed in ResQPets; OpenCV pipelines |
-| **Classical ML** | ▰▰▰▱▱ | Regression, KNN, scikit-learn workflows, KNIME |
-| **MLOps** | ▰▰▱▱▱ | Learning deployment pipelines, monitoring, and model lifecycle |
-| **Data Science** | ▰▰▰▱▱ | NumPy, Pandas, Matplotlib for analysis and visualization |
-
-</div>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-<details open>
-<summary><b>FinSim — AI-Powered Financial Literacy Simulator</b> · <i>Google Solution Challenge 2026</i></summary>
-<br/>
+<!--featured-projects-->
 
-Game-based simulator teaching real-world financial decision-making through AI-generated, personalized scenarios.
+**LeetCode Clone** · *Full-Stack Competitive Coding Platform*
 
-| | |
-|---|---|
-| **Stack** | TypeScript · Phaser 3 · Firebase · Vertex AI · Gemini |
-| **Scale** | ~14K LOC across ~75 modules |
-| **Performance** | Real-time scenario generation with dynamic difficulty |
-| **Security** | Firebase Auth with Firestore security rules |
-| **Impact** | Google Solution Challenge 2026 submission — gamified financial education |
-| **Live / Repo** | [finsimv2.netlify.app](https://finsimv2.netlify.app) · [Repository](https://github.com/charanjot27) |
-
-Architected an LLM-driven scenario engine on Vertex AI/Gemini that adapts financial simulations to each player's decisions — turning abstract concepts such as compounding, credit, and risk into interactive gameplay.
-
-</details>
-
-<details>
-<summary><b>ResQPets — Computer Vision for Animal Rescue</b> · <i>4th Place, HackMol 6.0</i></summary>
-<br/>
-
-Detects stray and injured animals via object detection and routes them to nearby rescue organizations.
+Full-stack platform integrating the Judge0 API for real-time code execution/judging, with real-time features via WebSocket and WebRTC.
 
 | | |
 |---|---|
-| **Stack** | Python · YOLO · OpenCV · React |
-| **Scale** | Real-time detection pipeline with rescue-matching frontend |
-| **Performance** | YOLO-based inference for live animal identification |
-| **Impact** | 4th place at HackMol 6.0 |
-| **Repository** | [github.com/charanjot27](https://github.com/charanjot27) |
+| **Stack** | Node.js · Express.js · MongoDB · Judge0 API · WebSocket · WebRTC |
+| **Highlights** | MongoDB schemas for users, problems, submissions & progress · AI chatbot recommending topics based on solving history · Real-time peer-to-peer interaction |
 
-Built the full detection-to-dispatch flow: camera input, YOLO inference, and geo-matched rescue organization alerts.
+**DevTinder — Backend API** · *Developer Networking Platform*
 
-</details>
-
-<details>
-<summary><b>Social Media Analysis Tool</b> · <i>Top 100 India, Level SuperMind</i></summary>
-<br/>
-
-Analytics tool surfacing engagement patterns and content insights from social media data.
+REST API backend for a developer-networking platform with secure, session-based authentication.
 
 | | |
 |---|---|
-| **Stack** | Data analytics pipeline with insight dashboard |
-| **Impact** | Top 100 in India — Level SuperMind Hackathon |
-| **Repository** | [github.com/charanjot27](https://github.com/charanjot27) |
+| **Stack** | Node.js · Express.js · MongoDB · Mongoose |
+| **Highlights** | JWT-based auth with bcrypt password hashing · cookie-parser session management · Request validation via the `validator` library |
 
-</details>
+**LangChain Model Integrations** · *LLM / Embedding Workspace*
 
-<details>
-<summary><b>Home Automation System</b> · <i>Embedded / IoT</i></summary>
-<br/>
-
-Bluetooth-controlled home automation — relay-driven appliance control from a mobile application.
+Workspace to explore and compare LLM, chat model, and embedding integrations across multiple providers.
 
 | | |
 |---|---|
-| **Stack** | Arduino · HC-05 Bluetooth · Relays · Embedded C |
-| **Impact** | End-to-end hardware, firmware, and mobile control loop |
-| **Repository** | [github.com/charanjot27](https://github.com/charanjot27) |
+| **Stack** | Python · LangChain · Hugging Face Transformers/Hub |
+| **Highlights** | Integrations across OpenAI, Anthropic, Google Gemini & Hugging Face · Environment config via python-dotenv |
 
-</details>
+**Interactive CV Builder (React CV)** · *Real-Time Resume Builder*
 
----
+Web app for building and previewing professional resumes in real time with a minimalist SaaS-style dashboard UI.
 
-## Experience
-
-### Software Intern — UTS Team · CRIS (Centre for Railway Information Systems), Indian Railways
-*Jun 2026 – Jul 2026*
-
-Worked on the Unreserved Ticketing System (UTS) — one of the largest-scale transaction systems in India.
-
-- Contributed to production software serving millions of daily ticketing transactions
-- Gained exposure to enterprise-grade systems, deployment practices, and railway IT infrastructure
-
-`Java` `Enterprise Systems` `Large-Scale Transactions`
-
-<br/>
-
-### Full-Stack Developer (MERN) · Connect The Clinics
-*Jun 2024 – Jul 2025*
-
-Year-long paid contract building and shipping full-stack healthcare-platform features.
-
-- Designed and delivered production features across the MERN stack
-- Owned features end-to-end: API design, database modeling, frontend implementation, deployment
-
-`MongoDB` `Express` `React` `Node.js` `REST APIs`
+| | |
+|---|---|
+| **Stack** | HTML5 · CSS3 · JavaScript · Parcel |
+| **Highlights** | Responsive layout with CSS custom properties & Flexbox · Production bundling/optimization via Parcel |
 
 ---
 
 ## Achievements
 
-<div align="center">
+<!--achievements-->
 
 | Recognition | Details |
-|:-----------:|:--------|
-| **JEE Advanced 2024** | Top 1.2% nationally |
-| **SIH National Finalist** | Smart India Hackathon |
-| **4th Place — HackMol 6.0** | Computer vision project (ResQPets) |
-| **Top 100 India** | Level SuperMind Hackathon |
-| **INSPIRE Award** | Government of India science innovation recognition |
-| **AISQ Qualified** | IIT Kanpur |
-| **EROH** | 3rd Institute / 155th National |
-| **NASA Space Apps Challenge** | Participant |
-| **Robotics Champion** | DAV University |
-| **Drone Systems** | DRDO/MeitY certified training — Agastya Robotics Club |
-
-</div>
-
----
-
-## Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DRDO%2FMeitY-Certified%20Drone%20Training-6D28D9?style=for-the-badge" alt="DRDO"/>
-<img src="https://img.shields.io/badge/Cisco-Networking%20(Packet%20Tracer)-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-<img src="https://img.shields.io/badge/AWS-ML%20Specialty%20(In%20Progress)-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-
-</div>
+|---|---|
+| **JEE Mains** | Top 1 percentile among 1.6 million candidates |
+| **JEE Advanced 2024** | All India Rank 16.3k |
+| **NTSE Stage 1** | Rank 103 out of 50,000 |
 
 ---
 
 ## Coding Profiles
 
-<div align="center">
+<!--coding-profiles-->
 
-<a href="https://leetcode.com/charanjot27"><img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating%20·%20300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27" alt="LeetCode"/></a>
-<a href="https://www.codechef.com/users/charanjot27"><img src="https://img.shields.io/badge/CodeChef-Active%20Contestant-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" alt="CodeChef"/></a>
-<a href="https://auth.geeksforgeeks.org/user/charanjot27"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1b27" alt="GFG"/></a>
-<a href="https://www.hackerrank.com/charanjot27"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b27" alt="HackerRank"/></a>
+![LeetCode](https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27)
+![Codeforces/GfG/CodeChef](https://img.shields.io/badge/Codeforces%20%2F%20GfG%20%2F%20CodeChef-150%2B%20Solved-5B4638?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27)
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Core%20Strengths-DP%20·%20Graphs%20·%20Binary%20Search%20·%20Greedy%20·%20Sliding%20Window-8B5CF6?style=flat-square&labelColor=1a1b27" alt="Strengths"/>
-
-</div>
+Regularly participates in coding contests to sharpen algorithmic thinking and problem-solving under time pressure.
 
 ---
 
 ## GitHub Analytics
 
-<div align="center">
+<!--github-analytics-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=charanjot27&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanjot27&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANMOLSNGH&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github)](https://github.com/ANMOLSNGH)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANMOLSNGH&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8)](https://github.com/ANMOLSNGH)
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=charanjot27&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ANMOLSNGH&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6)](https://github.com/ANMOLSNGH)
 
 ---
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charanjot27/charanjot27/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charanjot27/charanjot27/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/charanjot27/charanjot27/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</picture>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charanjot27&theme=react-dark&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=c9d1d9&hide_border=true&area=true&area_color=6D28D9" width="100%" alt="Activity Graph"/>
-
-</div>
-
 
 ## Current Focus
 
+<!--current-focus-->
+
 ```yaml
 learning:
-  - Classical ML and MLOps pipelines
-  - Sliding Window and Two-Pointer patterns (competitive programming)
-  - LLM agents and loop-based agentic architectures
+  - Operating Systems, DBMS & Computer Networks (coursework)
+  - Deeper RAG / vector database patterns
 
 building:
-  - FinSim v2 — AI-driven financial scenarios at scale
-  - DriveSense Edge — Automotive Edge AI (Tata InnoVent)
-
-exploring:
-  - Computer vision deployment at the edge
-  - iOS development with SwiftUI
+  - Full-stack projects across the MERN stack
+  - LLM-integrated tools with LangChain
 
 open_to:
-  - SDE / ML Engineering internships
+  - SDE Internships (2027)
+  - Data Analyst Internships (2027)
   - Open source collaboration
-  - Hackathon teams
 ```
 
 ---
 
 ## Connect
 
-<div align="center">
-
-<a href="mailto:charanjots.cs.24@nitj.ac.in"><img src="https://img.shields.io/badge/Gmail-charanjots.cs.24%40nitj.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/charanjot-singh"><img src="https://img.shields.io/badge/LinkedIn-charanjot--singh-0A66C2?style=for-the-badge&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/></a>
-<a href="https://github.com/charanjot27"><img src="https://img.shields.io/badge/GitHub-charanjot27-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/></a>
-<a href="https://charanjot.netlify.app"><img src="https://img.shields.io/badge/Portfolio-charanjot.netlify.app-6D28D9?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1b27" alt="Portfolio"/></a>
-
-</div>
-
----
+<!--connect-->
 
 <div align="center">
+
+[![Email](https://img.shields.io/badge/Email-anmols.cs.24%40nitj.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmols.cs.24@nitj.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anmol--rana--nitj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-rana-nitj/)
+[![GitHub](https://img.shields.io/badge/GitHub-ANMOLSNGH-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANMOLSNGH)
 
 *"Ship products, not just code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
